@@ -1,2 +1,2 @@
 # Game-1
-suatusaatketikaoring
+suatusaatketikaboring
